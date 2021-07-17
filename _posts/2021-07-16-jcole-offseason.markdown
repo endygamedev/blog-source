@@ -9,12 +9,13 @@ categories: jekyll update
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just know this was years in the making. <br><br>My new album The Off-Season available everywhere 5/14 <a href="https://t.co/aBw4po8fvx">pic.twitter.com/aBw4po8fvx</a></p>&mdash; J. Cole (@JColeNC) <a href="https://twitter.com/JColeNC/status/1389633897043009547?ref_src=twsrc%5Etfw">May 4, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+
 <h2><a id="tracklist_">Tracklist</a></h2>
 <ol>
     <a href="#audio1"><li>J. Cole — 9 5 . s o u t h</li></a>
     <a href="#audio2"><li>J. Cole — a m a r i</li></a>
     <a href="#audio3"><li>J. Cole, 21 Savage & Morray — m y . l i f e</li></a>
-    <li>J. Cole — a p p l y i n g . p r e s s u r e</li>
+    <a href="#audio4"><li>J. Cole — a p p l y i n g . p r e s s u r e</li></a>
     <li>J. Cole — p u n c h in ‘ . t h e . c l o c k</li>
     <li>J. Cole — 1 0 0 . m i l ’</li>
     <li>J. Cole & Lil Baby — p r i d e . i s . t h e . d e v i l</li>
@@ -24,6 +25,7 @@ categories: jekyll update
     <li>J. Cole — c l o s e</li>
     <li>J. Cole — h u n g e r . o n . h i l l s i d e</li>
 </ol>
+
 
 <h2>Вступление</h2>
 <p>Это шестой студийный альбом J. Cole и на данный момент последний. Он назван «The Off-Season» или «Межсезонье» — это перерыв между игровыми сезонами, когда спортсмены могут отдохнуть и готовиться к началу нового сезона. Название этого альбома было известно ещё в 2018 году, так как в клипе <i><a href="https://youtu.be/q_ohmJtsUYs" target="blank_">«J. Cole — Album Of The Year (Freestyle)»</a></i> в начале мелькает фраза: <i>«What you are about to witness is a master class on preparation. The Off-Season»</i>, также в описании этого клипа написано: <i>«The Off Season coming soon... All roads lead to The Fall Off - Cole»</i>. К этим фразам стоит добавить фото, которое выкладывал Джермейн.</p>
@@ -90,6 +92,7 @@ If you scared to throw it up, get the fuck out the club»</i>
     <li><code><i>«Look how everybody clappin' when your thirty-song album do a measly hundred thou'»</i></code> — отсылка к тому что многие сосредотачиваются молодые ребята сосредотачиваются на количестве, а не на качестве.</li>
     <li><code><i>«No plans to doze off, the streets, it don't come with a ref'»</i></code> — баскетбольная отсылка.</li>
 </ol>
+
 
 <h2><a id="audio2" href="#tracklist_">J. Cole — a m a r i</a></h2>
 <p><u>Produced by:</u> T-Minus, J. Cole, Suzuki & Timbaland</p>
@@ -238,3 +241,74 @@ Just know that they secrets is kept with me (On God)»</i>
 </ol>
 
 <p>В заключение этого трека, можно сказать, что J. Cole и 21 Savage выступают противоположностями. Джермейн — это парень который всё время завидовал 21 Savage, потому что тот умел вертеться в жизни и занимался уличными делами, но также Cole понимал, что это грязные и кровавые деньги, поэтому не шёл по этому пути. И в частности из-за этого трек выглядит цельным, а с сэмплом и голосом Morray, эта композиция становиться, наверное, лучшей на всём альбоме.</p>
+
+
+<h2><a id="audio4" href="#tracklist_">J. Cole — a p p l y i n g . p r e s s u r e</a></h2>
+
+<u>Produced by:</u> J. Cole
+
+<p>В треке «a p p l y i n g . p r e s s u r e», J. Cole ‘оказывает давление’ на рэперóв, которые выставляют напоказ богатство, которого у них нет и которые мягко говоря приукрашивают себя и своё положение в песнях. Можно назвать это дисс-наставление для всех тупых cap-рэперóв.</p>
+
+<p>На куплете можно можно услышать следующие строчки:</p>
+<pre>
+<i>«Verses hit hard, never pitched hard or played the streets
+These niggas' whips hard, behind closed doors, can't pay the lease (Uh)
+Ain't nothin' wrong with livin' check to check 'cause most have to (I understand that)
+Instead of cappin', why don’t you talk about being a broke rapper? (I don’t understand that)
+That's a perspective I respect because it’s real
+What it's like to be nice as fuck but got to stress to pay the bills»</i>
+</pre>
+
+<p>В начале он говорит, что не увлекался уличными делами и это было подробно рассказано ещё на альбоме «2014 Forest Hills Drive».<br>
+Далее Cole утверждает, что ничего страшного если вы (тупые cap-рэперы) живёте от зарплаты до зарплаты, потому что многие люди так живут. Джермейн не скрывая говорит о своей неприязни к ним — <code><i>«Вместо того, чтобы cap’ать (говорить неправду или преувеличивать) может скажите, что вы бедные рэперы?»</i></code>. Джермейн пытается до нас донести то, что незачем врать людям, потому что их привлекает честность и открытость. <code><i>«В чём прикол быть паинькой на публике, а потом переживать об оплате счетов?»</i></code>.</p>
+
+<p>В этой части композиции он выступает в роли того, кто ‘оказывает давление’, но дальше роли меняются и он уже выступает в роли того на кого ‘оказывают давление’, рассказывая о своём жизненном опыте. Мы можем заметить следующие строчки:</p>
+<pre>
+<i>«That was me in '08, seein' no cake
+Not even on dates I celebrated my birth
+Just did the mental math and calculated my worth»</i>
+</pre>
+
+<p>Далее он признаётся, что иногда становился жертвой чувства ревности. Однако Джермейн смог контролировать те эмоции, которые заставили его сосредоточиться на собственном росте, что в конечном итоге привело его к успеху и богатству:</p>
+<pre>
+<i>«I can cap and say that I never scratched my jealousy's itch
+But thank God I conquered that 'cause if not I'd never be rich
+Envy keep your pockets empty, so just focus on you
+If you broke and clownin' a millionaire, the joke is on you
+Money ain't everything, I never say that (Never)
+But niggas throw stones knowin' they sell they soul to get wherever they at (Come on, man)»</i>
+</pre>
+
+<p>Также продолжается дисс-часть, в которой Cole подчеркивает зависть и лицемерие людей, которые выставляют напоказ дорогие вещи, но ненавидят настоящих миллионеров. Ещё он тут подмечает то, что уважает тех людей, которые пытаются стать лучше и тратят свою энергию в этом направлении, вместо того, чтобы бросать камни в других людей.</p>
+
+<p>В аутро, J. Cole ещё раз подмечает разницу между ‘real niggas’ и ‘mothafuckin' fraudulent niggas’:</p>
+<pre>
+<i>«'Cause niggas just try to act like you just not that motherfuckin' nigga, like
+Like you just really don't do it how you do it
+Like niggas will really try to act like you don't do what you do
+Nigga look you dead in your face
+And really act like you don't do it to the level that you do it
+That's why sometimes you gotta come through and just do it at the level that you do it in front of every nigga face
+So they know the difference between you, the real niggas, and the mothafuckin' fraudulent niggas, man
+Don't never get it fucked up
+If a nigga can't do it like you do it sometimes you gotta do it in front of his fuckin' face so he'll know forever»</i>
+</pre>
+
+<p>В конце нас подхватывают слова <a href="https://en.wikipedia.org/wiki/Martin_Luther_King_Jr." target="blank_">Мартина Лютера Кинга</a>, которые Cole использует для того, чтобы дополнить аутро и сказать нам о проблеме, когда люди не могут или не хотят признать чужой труд:</p>
+<pre>
+<i>«These are the same ones telling our people what we are and we aren't because we're just not working hard enough
+And that mentality is what we're up against today
+But this is good to know because this time, when we march on the Capitol
+You can go ahead and let 'em know long before we get there, we're coming to get that check)»</i>
+</pre>
+
+<p align="center"><iframe width="70%" height="315" src="https://www.youtube.com/embed/aBwKnnZN52U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p>Примечательные строчки:</p>
+<ol>
+    <li><code><i>«Shit crazy, didn’t know I got more M's than a real Slim Shady video (I'm the real Shady)»</i></code> — тут идёт отсылка на <a href="https://youtu.be/eJO5HU_7_1w" target="blank_">Slim Shady</a> — альтер-эго <a href="https://en.wikipedia.org/wiki/Eminem" target="blank_">Eminem</a>, которое дало ему путь на вершину славы. Здесь встречается игра слов, <code><i>«M»</i></code> — может означать как 'миллион', но может быть это 'Em' то есть сокращенный псевдоним Eminem.</li>
+    <li><code><i>«Big Boss, less Rick Ross, more like a wavy Hideo Kojima, they tote steamers around the way we tippy-toe»</i></code> — в этих строчках Cole называет себя <code><i>«big boss»</i></code> после того, как в предыдущей строчке осознаёт сколько у него миллионов. Он отсылается к хип-хоп исполнителю <a href="https://en.wikipedia.org/wiki/Rick_Ross" target="blank_">Rick Ross</a> и также сравнивает себя с главным героем игры «Metal Gear Solid» — Солидом Снейком (a.k.a Big Boss), которую создал знаменитый геймдизайнер <a href="https://en.wikipedia.org/wiki/Hideo_Kojima" target="blank_">Hideo Kojima</a>.</li>
+</ol>
+
+
+<p align="center"><iframe src="https://open.spotify.com/embed/album/4JAvwK4APPArjIsOdGoJXX" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
