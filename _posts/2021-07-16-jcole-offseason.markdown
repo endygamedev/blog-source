@@ -17,13 +17,13 @@ categories: jekyll update
     <a href="#audio3"><li>J. Cole, 21 Savage & Morray — m y . l i f e</li></a>
     <a href="#audio4"><li>J. Cole — a p p l y i n g . p r e s s u r e</li></a>
     <a href="#audio5"><li>J. Cole — p u n c h i n ‘ . t h e . c l o c k</li></a>
-    <li>J. Cole — 1 0 0 . m i l ’</li>
+    <a href="#audio6"><li>J. Cole & Bas — 1 0 0 . m i l ’</li></a>
     <li>J. Cole & Lil Baby — p r i d e . i s . t h e . d e v i l</li>
     <li>J. Cole, Bas & 6LACK — l e t . g o . m y . h a n d</li>
     <li>J. Cole — i n t e r l u d e</li>
     <li>J. Cole — t h e . c l i m b . b a c k</li>
     <li>J. Cole — c l o s e</li>
-    <li>J. Cole — h u n g e r . o n . h i l l s i d e</li>
+    <li>J. Cole & Bas — h u n g e r . o n . h i l l s i d e</li>
 </ol>
 
 
@@ -34,7 +34,8 @@ categories: jekyll update
 
 <p>Таким образом, он нам говорит, что заканчивается «The Fall Off Era», потому что судя по зачеркнутым названиям, а именно «Features» и «ROTD3» или «Revenge of the Dreamers III», осталось лишь 3 альбома, один из которых вышел совсем недавно. В итоге мы имеем всего 2 невышедших релиза: «It’s a Boy» и «The Fall Off», после чего есть вероятность, что J. Cole может завершить карьеру.</p>
 <p>Также стоит обратить внимание на обложку релиза. Cole ещё в своих первых треках делал отсылки на баскетбол, что вполне понятно, потому что сам он играл за школьную команду — «Bulldogs» и случайным образом попал в команду «Университета Святого Иоанна», но играл он там недолго так как потом занялся музыкой. Ещё конечно же имеет место тот факт, что баскетбол и хип-хоп непрерывно связаны. Можно даже сказать, что баскетбол является одним из столпов хип-хопа, наравне с граффити и диджеингом. На протяжении всего альбома можно загибать пальчики на руках и ногах и считать отсылки.</p>
-<p>Итак, <code><a href="https://youtu.be/gf60ovz55Rw" target="blank_"><i>leeeeeeet’s gooooo</i></a></code>.</p>
+<p>Ещё, за 4 дня до дропа альбома, Cole выпустил документальный фильм <a href="https://youtu.be/135bv6GhD2M" target="blank_"><i>«J. Cole — Applying Pressure: The Off-Season Documentary»</i></a>, где он более подробно раскрывает концепцию этого релиза и к которому мы ещё вернёмся при разборе текстóв.</p>
+<p>Итак, <code><a href="https://youtu.be/gf60ovz55Rw" target="blank_"><i>lezzzzz gooooo</i></a></code>.</p>
 
 
 <h2><a id="audio1" href="#tracklist_">J. Cole — 9 5 . s o u t h</a></h2>
@@ -357,7 +358,83 @@ Whether people see it, or whether people know it or not
 You know, it always come to light»</i>
 </pre>
 
-<p>Отрывок подчеркивает тему альбома, которую Cole объяснил в своем интервью 2021 года журналу <a href="https://covers.slamonline.com/j-cole" target="blank_"><i>SLAM</i></a>: <code><i>«The Off-Season symbolizes the work that it takes to get to the highest height. The Off-Season represents the many hours and months and years it took to get to top form… the offseason is where the magic really happens.»</i></code>.</p>
+<p>Отрывок подчеркивает тему альбома, которую Cole объяснил в своем интервью 2021 года журналу <a href="https://covers.slamonline.com/j-cole" target="blank_"><i>SLAM</i></a>: <code><i>«The Off-Season symbolizes the work that it takes to get to the highest height. The Off-Season represents the many hours and months and years it took to get to top form … the offseason is where the magic really happens.»</i></code>.</p>
+
+<h2><a id="audio6" href="#tracklist_">J. Cole & Bas — 1 0 0 . m i l ’</a></h2>
+<u>Produced by:</u> J. Cole & T-Minus
+
+<p>В этой песне звучит один из самых лучших битов всего альбома <sup>по моему мнению</sup>. Здесь Cole говорит о продолжении своего пути, совершенствования своего 'рэп-мастерства', в частности флоу и улучшения качества текстóв, независимо от того успеха, которого он уже достиг. Это можно подтвердить его словами из трека <a href="https://youtu.be/wvFDXV0VBg4?t=207" target="blank_"><i>«J. Cole — False Prophets»</i></a>: <code><i>«I hear my old shit and know I can top it.»</i></code>. Также Джермейн затронул идею достижения своего пика в документальном фильме 2021 года для этого альбома под названием <a href="https://youtu.be/135bv6GhD2M" target="blank_"><i>«J. Cole — Applying Pressure: The Off-Season Documentary»</i></a>: <code><i>«If this is as high as you ever got … from a skill level, like, have you wrote your best song? Did you leave no stone unturned, creatively? And when I thought about that feeling, I was like, ‘Nah, I’m not cool with that.‘»</i></code>.</p>
+
+<p>С самого начала этой песни мы слышим разрывные строчки, которые идеально вплетаются в альбом и отсылают нас к песне <a href="#audio4"><i>«a p p l y i n g . p r e s s u r e»</i></a>:</p>
+<pre>
+<i>«How come a nigga ain't enter his prime?
+Still gettin' better after all this time
+These niggas say that they killers, they lyin'
+Only thing I see 'em killin' is time»</i>
+</pre>
+
+<p>Это определённо идёт в копилочку лучших панчей альбома: <code><i>«Эти ниггеры говорят, что они убийцы, они лгут. Единственное, что они могут убить, это время.»</i></code></p>
+
+<p>Далее идёт опять-таки ‘демонстрация мускул‘ и хасл:</p>
+<pre>
+<i>«I'm bleeding from fighting my demons head up
+When I get defeated, believe I get up
+I come from a city most niggas ain't heard of until they popped in my first CD, now look
+I'm on that Mount Rushmore, you niggas can't front no more»</i>
+</pre>
+
+<p>В конце первого куплета Джермейн говорит о том, что деньги меняют людей и то что он уверен в своих парнях, йоооу:</p>
+<pre>
+<i>«I'm proud of my niggas, they never switched up
+Don't care if it's Michael B. Jordan that's calling my woman to fuck, she ain't gon' never pick up
+Sadly, I can't say the same for you niggas
+A couple of dollars be changing you niggas
+I pray for you niggas, but»</i>
+</pre>
+<hr>
+<p><i>reference:</i> <a href="https://en.wikipedia.org/wiki/Michael_B._Jordan" target="blank_"><i>Michael B. Jordan</i></a> — американский актёр, наиболее известный по своим ролям в фильмах «Крид: Наследие Рокки», «Крид 2» и «Чёрная пантера».</p>
+<p align="center"><img src="/assets/off-season/michael-b-jordan.jpg" width="50%"></p>
+<hr>
+<p>Тут есть панчлайн относительно Майкла Б. Джордана, так как он был признан самым сексуальным мужчиной 2020 года по версии журнала <a href="https://people.com/movies/michael-b-jordan-people-sexiest-man-alive-2020/" target="blank_"><i>«People Magazine»</i></a>. Эта строчка описывает верность жены Джермейна, Мелиссы, и он заявляет, что даже если бы самый сексуальный мужчина в мире захотел ей позвонить, она бы даже не взяла трубку.</p>
+
+<p>Второй куплет выглядит так:</p>
+<pre>
+<i>«It's not 'bout the money, it's more about time
+Shit makes sense when you see how I spend mine
+Burst through the ceiling, I'm feeling sublime
+Can't leave the game yet, I feel like LeBron»</i>
+</pre>
+
+<p>Здесь Cole утверждает, что для него уже не важны деньги, а важна репутация и наследие. <code><i>«Это дерьмо имеет смысл, если вы посмотрите, как я этим занимаюсь»</i></code>.</p>
+<hr>
+<p><i>reference:</i> <a href="https://en.wikipedia.org/wiki/LeBron_James" target="blank_"><i>LeBron James</i></a> — величайший баскетболист современности, который 4 раза завоёвывал титул чемпиона, на данный момент представляет команду <a href="https://en.wikipedia.org/wiki/Los_Angeles_Lakers" target="blank_"><i>«Los Angeles Lakers»</i></a>.</p>
+<p align="center"><img src="/assets/off-season/lebron.jpg" width="50%"></p>
+<hr>
+<p>Также ни трека без баскетбольной отсылки. Джермейн сравнивает себя с легендарным баскетболистом Леброном Джеймсом. Оба они являются мастерами в своём деле, способными перевернуть игру с ног на голову.</p>
+
+<p>В заключительном припеве слышен парт Bas’a, который ещё раз напоминает нам о том, что J. Cole на пике карьеры.</p>
+
+<pre>
+<i>«Ooh, one hundred mil' and I'm still
+One hundred mil' and I'm still
+One hundred mil' and I'm still
+One hundred mil' and I'm still
+One hundred mil' and I'm still
+One hundred mil' and I'm still
+One hundred mil' and I'm still
+One hundred mil' and I'm still
+One hundred mil' and I'm still»</i>
+</pre>
+
+<p>При семизначной стоимости шоу он буквально заработал на своей музыке более 100 миллионов долларов, а его песни транслируются более чем на 2 миллиарда. <code><i>«On the Grind»</i></code> означает усердно работать над своей страстью. Джермейну больше нечего доказывать, но это не мешает ему продолжать работать и совершенствовать свое мастерство. Это означает, что Cole говорит не только о 100 миллионах в денежном выражении. Возможно, он имеет в виду количество времени, которое он тратит на совершенствование своего ремесла.</p>
+
+<p>Примечательные строчки:</p>
+<ol>
+    <li><code><i>«This game is likе follow the leader, if you looking closely enough, then you'll see that I led»</i></code> — здесь Cole сравнивает рэп-игру с игрой, в которую играют дети в начальной школе — «следуй за лидером» — учитель выбирает одного ребёнка в роли ведущего, а остальные следуют за ним, это удобно, когда нужно выйти за пределы класса, допустим на обед или перерыв.</li>
+    <li><code><i>«I'ma reign until FEMA show up»</i></code> — если переводить дословно, то тут говориться о том, что Джермейн будет господствовать пока за ним не приедет отдел FEMA — это федеральное агентство США по управлению в чрезвычайных ситуациях, целью которой является ликвидация последствий глобальных катастроф.</li>
+</ol>
+
+
 <hr>
 <h2 align="center">✌️ peace</h2>
 <p align="center"><iframe src="https://open.spotify.com/embed/album/4JAvwK4APPArjIsOdGoJXX" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
