@@ -18,7 +18,7 @@ categories: jekyll update
     <a href="#audio4"><li>J. Cole — a p p l y i n g . p r e s s u r e</li></a>
     <a href="#audio5"><li>J. Cole — p u n c h i n ‘ . t h e . c l o c k</li></a>
     <a href="#audio6"><li>J. Cole & Bas — 1 0 0 . m i l ’</li></a>
-    <li>J. Cole & Lil Baby — p r i d e . i s . t h e . d e v i l</li>
+    <a href="#audio7"><li>J. Cole & Lil Baby — p r i d e . i s . t h e . d e v i l</li></a>
     <li>J. Cole, Bas & 6LACK — l e t . g o . m y . h a n d</li>
     <li>J. Cole — i n t e r l u d e</li>
     <li>J. Cole — t h e . c l i m b . b a c k</li>
@@ -433,6 +433,49 @@ One hundred mil' and I'm still»</i>
     <li><code><i>«This game is likе follow the leader, if you looking closely enough, then you'll see that I led»</i></code> — здесь Cole сравнивает рэп-игру с игрой, в которую играют дети в начальной школе — «следуй за лидером» — учитель выбирает одного ребёнка в роли ведущего, а остальные следуют за ним, это удобно, когда нужно выйти за пределы класса, допустим на обед или перерыв.</li>
     <li><code><i>«I'ma reign until FEMA show up»</i></code> — если переводить дословно, то тут говориться о том, что Джермейн будет господствовать пока за ним не приедет отдел FEMA — это федеральное агентство США по управлению в чрезвычайных ситуациях, целью которой является ликвидация последствий глобальных катастроф.</li>
 </ol>
+
+<h2><a id="audio7" href="#tracklist_">J. Cole & Lil Baby — p r i d e . i s . t h e . d e v i l</a></h2>
+<u>Produced by:</u> T-Minus
+<p>С этим треком случилась одна неприятность, которая выяснилась после дропа альбома. Она заключается в том, что этот бит уже использовался только с другим темпом <sup>BPM</sup>, на композиции <a href="https://youtu.be/_YtvtGTb3yg" target="blank_"><i>«Aminé — Can’t Decide»</i></a>. Обе этих песни объединяет то, что их спродюсировал T-Minus и так получилось, что видимо ему вспомнился мотив его предыдущей работы и он неосознанно повторил бит.</p>
+<p align="center"><iframe width="70%" height="315" src="https://www.youtube-nocookie.com/embed/vXlWKHTfZ8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Лично мне непривычно было слышать Lil Baby на фите с J. Cole, потому что это исполнители совсем разного калибра, но 'аура' Джермейна даёт о себе знать, хотя бы немного. Парт Lil Baby мне понравился только в заключительной его части, всё остальное — это классический трек Lil Baby, хасл и всякое такое.</p>
+<p>В этой композиции Cole обсуждает один из семи смертных грехов, гордыню, и то, как она влияет на поведение как его самого, так и других людей. Джермейн также ценит то, что он выжил на улицах и прожил много лет, в отличии от его некоторых знакомых. Lil Baby есть Lil Baby и читает он конечно же о своём богатстве, наркозависимости, которая у него когда-то была, и про ответственность перед людьми, с которыми он вырос.</p>
+
+<p>На первом куплете мы можем слышать такие строчки:</p>
+<pre>
+<i>«Still remember vividly the nigga that pulled a gun on me
+I'm petrified, but moving like I got no sense of urgency»</i>
+</pre>
+
+<p>Здесь раскрывается тема гордости, когда она помешала ему повернуться лицом и убежать, что потенциально могло закончиться его убийством. Также хочется упомянуть другие строчки Джермейна на эту тему с трека <a href="https://youtu.be/fX8IUhQqOOk" target="blank_"><i>«J. Cole — 2Face»</i></a>: <code><i>«But still we never ran, foolish pride made us stand right there»</i></code>. То есть: <code><i>«Но всё же мы никогда не бежали, глупая гордость заставляла нас стоять прямо здесь»</i></code>.</p>
+
+<p>Следующие строчки отсылают нас к тому, что Cole вырос в неполной семье и его родители разошлись когда он был ещё ребёнком.</p>
+<pre>
+<i>«Pride be the reason for the family dichotomy
+Got uncles and some aunties that's too proud to give apologies»</i>
+</pre>
+
+<p>Если переходить к парту Lil Baby, то я бы выделил следующие строчки:</p>
+<pre>
+<i>«All my pride gone, had to lose it all then I got rich
+I own five homes, glad some of this shit starting to make sense
+I'm staying hella focused and I can't forget the bigger picture
+I can't even hold you, I didn't have shit, I won't forget it
+Will I be destroyed?
+Come to me with everything, it's starting to get annoying
+I'm addicted to promethazine, it's crazy, yeah, I know it
+All this money coming in, it drive me crazy not to show it
+I'll be crazy if I blow it»</i>
+</pre>
+
+<p>Тут он говорит о том, что если его гордыня не ушла, то он бы не достиг успеха. Также тут раскрывается тема наркотиков и принятие зависимости. И заканчивает он свой парт так: <code><i>«Все эти деньги приходят ко мне, меня сводит с ума, что я не могу показать их. Я стану безумным, если я их лишусь»</i></code>.</p>
+
+<p>Примечательные строчки:</p>
+<ol>
+    <li><code><i>«Got my speed up, foot all on the gas, this not a C8 'Vette»</i></code> — тут Lil Baby сравнивает себя с <a href="https://en.wikipedia.org/wiki/Chevrolet_Corvette" target="blank_"><i>Chevrolet Corvette</i></a>, что он также быстро набирает обороты и не собирается останавливаться.</li>
+</ol>
+
+<p>В остальном трек максимально прямолинейны и в песне напрямую всё сказано. Даже нет баскетбольных отсылочек. :(</p>
 
 
 <hr>
