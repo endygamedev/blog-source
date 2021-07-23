@@ -26,7 +26,7 @@ categories: jekyll update
     <a href="#audio12"><li>J. Cole & Bas — h u n g e r . o n . h i l l s i d e</li></a>
 </ol>
 
-
+<div align="justify">
 <h2>Вступление</h2>
 <p>Это шестой студийный альбом J. Cole и на данный момент последний. Он назван «The Off-Season» или «Межсезонье» — это перерыв между играми, когда спортсмены могут отдохнуть и готовиться к началу нового сезона. Название этого альбома было известно ещё в 2018 году, так как в клипе <a href="https://youtu.be/q_ohmJtsUYs" target="blank_"><i>«J. Cole — Album Of The Year (Freestyle)»</i></a> в начале мелькает фраза: <code><i>«What you are about to witness is a master class on preparation. The Off-Season»</i></code>, также в описании этого клипа написано: <code><i>«The Off Season coming soon … All roads lead to The Fall Off — Cole»</i></code>. К этим фразам стоит добавить фото, которое выкладывал Джермейн.</p>
 
@@ -789,3 +789,4 @@ And all you've got to do is believe, believe, be—»</i>
 <hr>
 <h2 align="center">✌️ shit gon' get hard, keep your head strong</h2>
 <p align="center"><iframe src="https://open.spotify.com/embed/album/4JAvwK4APPArjIsOdGoJXX" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
+</div>
