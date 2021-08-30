@@ -1,0 +1,59 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  
+    <div class="wrapper">
+  
+      <div class="footer-col-wrapper">
+        <div class="footer-col">
+          <p>
+            <span>Egor Bronnikov</span><br>
+            <a href="mailto:bronnikov.40@mail.ru"><span>bronnikov.40@mail.ru</span></a>
+          </p>
+          <p>
+            <a href="https://t.me/endygamedev" target="blank_">
+                <svg class="svg-icon">
+                  <use xlink:href="{{ '/assets/minima-social-icons.svg#telegram' | relative_url }}"></use>
+                </svg><span>endygamedev</span>
+            </a>
+            <a href="https://t.me/valleyinkentucky" target="blank_" style="padding-left: 15px;">
+                <svg class="svg-icon">
+                  <use xlink:href="{{ '/assets/minima-social-icons.svg#telegram' | relative_url }}"></use>
+                </svg>
+                <span>Valley in Kentucky</span>
+            </a>
+          </p>
+          <p>
+            <a href="https://github.com/endygamedev" target="blank_">
+                <svg class="svg-icon">
+                  <use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use>
+                </svg><span>endygamedev</span>
+            </a>
+            <a href="https://www.instagram.com/endygamedev_/" style="padding-left: 15px;">
+                <svg class="svg-icon orange">
+                  <use xlink:href="{{ 'assets/minima-social-icons.svg#instagram' | relative_url }}"></use>
+                </svg><span>endygamedev_</span>
+            </a>
+          </p>
+        {%- if site.author %}
+          <ul class="contact-list">
+            {% if site.author.name -%}
+              <li class="p-name">{{ site.author.name | escape }}</li>
+            {% endif -%}
+            {% if site.author.email -%}
+              <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            {%- endif %}
+          </ul>
+        {%- endif %}
+        </div>
+        <div class="footer-col">
+          <p>{{ site.description | escape }}</p>
+        </div>
+      </div>
+  
+      <div class="social-links">
+        {%- include social.html -%}
+      </div>
+  
+    </div>
+  
+  </footer>
