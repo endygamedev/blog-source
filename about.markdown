@@ -45,7 +45,7 @@ permalink: /about/
 
 
 <h3 align="center"><a id="telegram" href="#content_">✈️ Telegram channel</a></h3>
-<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="valleyinkentucky/9" data-width="100%"></script>
+<p><script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="valleyinkentucky/9" data-width="100%"></script></p>
 
 
 <h3 align="center"><a id="spotify" href="#content_">▶️ Spotify Live</a></h3>
