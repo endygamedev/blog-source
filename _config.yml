@@ -22,12 +22,6 @@ title: Egor Bronnikov
 email: bronnikov.40@mail.ru
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username:  endygamedev
-#instagram_username: endygamedev_
-#telegram_username: endygamedev_
-social:
-  github: endygamedev
-  instagram: endygamedev_
 
 # Build settings
 theme: minima
