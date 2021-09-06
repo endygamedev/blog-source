@@ -18,8 +18,13 @@ permalink: /resume/
     <li>2019-н.в. — <strong>Высшее образование (3 курс):</strong> СПбГЭУ, Факультет информатики и прикладной математики, Кафедра прикладной математики и экономико-математических методов</li>
 </ol>
 <p>
-    <a href="/assets/certificate.pdf" target="blank_">Аттестат об окончании доп. образования</a>
-</p>
+
+
+<h2>Certificates</h2>
+<ol>
+    <li><a href="/assets/certificate.pdf" target="blank_">Аттестат об окончании дополнительного образования</a><sub> / УЦВТ</sub></li>
+    <li><a href="https://stepik.org/cert/1062738 " target="blank_">Сертификат Stepik: «Функциональное программирование на языке Haskell»</a><sub> / CS центр</sub></li>
+</ol>
 
 <h2>Skills</h2>
 <ul>

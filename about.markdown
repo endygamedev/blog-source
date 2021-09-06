@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+<div align="justify">
 <h3 align="center">✌️ Йоу — йоу</h3>
 
 <h3><a id="content_">Содержание</a></h3>
@@ -52,3 +53,4 @@ permalink: /about/
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=216ndgqqr2hlj3be4gf3rjzoa&cover_image=true&theme=natemoo-re"></a>
 </p>
+<div>
