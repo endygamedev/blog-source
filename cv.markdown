@@ -34,7 +34,7 @@ permalink: /cv/
 <h2>WORK EXPERIENCE</h2>
 <p>
     <b>6OG</b><br>
-    <b>Russia, St. Peters   burg</b><br>
+    <b>Russia, St. Petersburg</b><br>
     2019–2019<br>
     Developed an AR application for 6OG on the Vuforia engine at Unity3D
 </p>
