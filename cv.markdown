@@ -98,7 +98,7 @@ permalink: /cv/
 </p>
 <p>
     <b>Databases</b><br>
-    Microsoft SQL Server, SQLite
+    Microsoft SQL Server, SQLite, MySQL
 </p>
 <p>
     <b>Web</b><br>
