@@ -3,6 +3,7 @@ layout: post
 title:  "🇦 Увеличить директорию / за счёт /home"
 date:   2021-08-25 15:48:15 +0300
 categories: jekyll update
+tags: cs arch
 ---
 
 <div align="justify">

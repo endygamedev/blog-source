@@ -3,6 +3,7 @@ layout: post
 title:  "🎤 J. Cole — The Off-Season"
 date:   2021-07-16 17:40:45 +0300
 categories: jekyll update
+tags: rap ballin'
 ---
 
 <p>Слушать «The Off-Season»: <a href="https://jcole.lnk.to/OffSeason" target="blank_">@jcole.lnk.to/OffSeason</a></p>

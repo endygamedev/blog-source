@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+{%- include head.html -%}
+<body>
+    {%- include header.html -%}
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            <div class="home">
+            <h1>#{{page.tag}}</h1>
+            <ul>
+                {% for post in site.posts %}
+                {% if post.tags contains page.tag %}
+                <li style="list-style-type: none; margin: 0 0 5px 0;"><a class="post" href="{{ post.url }}" style="font-size: 20px;">{{ post.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+            </div>
+        </div>
+    </main>
+    {%- include footer.html -%}
+</body>
+</html>

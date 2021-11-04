@@ -3,6 +3,7 @@ layout: post
 title:  "💻 How monads work?"
 date:   2021-10-24 14:30:00 +0300
 categories: jekyll update
+tags: cs haskell
 ---
 
 In this article we will see with an example what monad is.
