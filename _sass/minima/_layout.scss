@@ -10,6 +10,11 @@
   position: relative;
 }
 
+.blinking_cursor {
+  animation: blinker 1s none infinite;
+  font-size: $base-font-size * 2;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;

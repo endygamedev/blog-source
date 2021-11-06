@@ -6,7 +6,7 @@
     <main class="page-content" aria-label="Content">
         <div class="wrapper">
             <div class="home">
-            <h1>#{{page.tag}}</h1>
+            <h1><i class="fas fa-tag" style="color: #2a7ae2;"></i> {{page.tag}}</h1>
             <ul>
                 {% for post in site.posts %}
                 {% if post.tags contains page.tag %}
