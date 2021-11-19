@@ -13,6 +13,7 @@
 .blinking_cursor {
   animation: blinker 1s none infinite;
   font-size: $base-font-size * 2;
+  font-weight: lighter;
 }
 
 .site-title {
