@@ -115,7 +115,7 @@ A   www    🠒 your_public_IP_address     # `A` DNS record for `www`
 
 <p align="justify">It is worth noting that we have a public external IP that match to all local devices connected to our network. In order to link to our server, where Nginx will work for us, you need to register <i>Port Forwarding</i>.</p>
 
-<p align="justify">I have a <i>Netis WF2780</i> router. To configure it, I have to open in the browser router's IP address, for example: <code>http://192.168.1.1</code>. After thar I go to <code>`Advanced Settings`</code>. In order to give a permanent IP address to the server, I have to do the following steps: <code>`Network` 🠒 `LAN` 🠒 `DHCP Client List` 🠒 *select server* 🠒 `Operaions` 🠒 `Reserve`</code>. Now, even if our server is disconnected for a long time, the router will remember its MAC address and we will not have to change the settings in the future.</p>
+<p align="justify">I have a <i>Netis WF2780</i> router. To configure it, I have to open in the browser router's IP address, for example: <code>http://192.168.1.1</code>. After thar I go to <code>`Advanced Settings`</code>. In order to give a permanent IP address to the server, I have to do the following steps: <code>`Network` 🠒 `LAN` 🠒 `DHCP Client List` 🠒 *select server* 🠒 `Operations` 🠒 `Reserve`</code>. Now, even if our server is disconnected for a long time, the router will remember its MAC address and we will not have to change the settings in the future.</p>
 
 <p align="justify">Let's move on to <i>Port Forwarding</i> by following these steps: <code>`Forwarding` 🠒 `Virtual Servers`</code> and you need to add 3 rows. As an example, let's take that the local IP address of our server is <code>192.168.1.8</code>.</p>
 
