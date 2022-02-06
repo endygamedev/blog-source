@@ -24,7 +24,7 @@ permalink: /cv/
 </p>
 <p>
     <b>Contacts</b><br>
-    Website: <a href="https://endygamedev.github.io/" target="blank_">endygamedev.github.io</a><br>
+    Website: <a href="https://ebronnikov.xyz/" target="blank_">ebronnikov.xyz</a><br>
     Email: <a href="mailto:bronnikov.40@mail.ru" target="blank_">bronnikov.40@mail.ru</a><br>
     Telegram: <a href="https://t.me/endygamedev" target="blank_">@endygamedev</a><br>
     GitHub: <a href="https://github.com/endygamedev" target="blank_">@endygamedev</a>
