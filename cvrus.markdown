@@ -6,7 +6,7 @@ permalink: /cv/ru
 
 <p align="right">
 <a class="page-link" href="/cv/en"><sub>🇷🇺 ru</sub></a><br>
-<a href="/assets/" download="cv_ru.pdf"><i class="fa-light fa-download" style="font-size: 20px"></i>&emsp;Save as PDF</a>
+<a href="/assets/cv_ru.pdf" download="bronnikov_cv_ru.pdf"><i class="fa-light fa-download" style="font-size: 20px"></i>&emsp;Save as PDF</a>
 </p>
 
 <p align="left">
