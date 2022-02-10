@@ -1,12 +1,12 @@
 ---
 layout: page
 title: CV 
-permalink: /cv/en
+permalink: /cv/
 ---
 
 
 <p align="right">
-<a class="page-link" href="/cv/ru"><sub>🇺🇸 en</sub></a><br>
+<a class="page-link" href="/cv/ru.html"><sub>🇺🇸 en</sub></a><br>
 <a href="/assets/cv_en.pdf" download="bronnikov_cv_en.pdf"><i class="fa-light fa-download" style="font-size: 20px"></i>&emsp;Save as PDF</a>
 </p>
 
