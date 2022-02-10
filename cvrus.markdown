@@ -1,35 +1,34 @@
 ---
 layout: page
 title: CV 
-permalink: /cv/en
+permalink: /cv/ru
 ---
 
-
 <p align="right">
-<a class="page-link" href="/cv/ru"><sub>🇺🇸 en</sub></a><br>
-<a href="/assets/" download="cv_en.pdf"><i class="fa-light fa-download" style="font-size: 20px"></i>&emsp;Save as PDF</a>
+<a class="page-link" href="/cv/en"><sub>🇷🇺 ru</sub></a><br>
+<a href="/assets/" download="cv_ru.pdf"><i class="fa-light fa-download" style="font-size: 20px"></i>&emsp;Save as PDF</a>
 </p>
 
 <p align="left">
-    <table style="border-collapse:collapse; border:none;"><tr style="border:none;"><td width="40%" style="border:none;"><img src="/assets/avatar.png" width="250px" style="border: 3px solid #2a7ae2; border-radius: 1000px; padding: 3px;"></td><td style="font-size:220%; border:none;" width="60%">EGOR BRONNIKOV</td></tr></table>
+    <table style="border-collapse:collapse; border:none;"><tr style="border:none;"><td width="40%" style="border:none;"><img src="/assets/avatar.png" width="250px" style="border: 3px solid #2a7ae2; border-radius: 1000px; padding: 3px;"></td><td style="font-size:200%; border:none;" width="60%">ЕГОР БРОННИКОВ</td></tr></table>
 </p>
 
-<h2>PROFILE</h2>
+<h2>ОБО МНЕ</h2>
 <p align="justify">
-3<sup>rd</sup> year student of St. Petersburg State University of Economics. Since high school I have been developing various things. I tried myself in variant fields such as web development, mobile development, game development, software development and many others. I can work with different office packages, I know Python, C, Bash and other languages. I am interested in the development of projects with algorithmic overtones. I am also interested in low-level things. Knowledge in Linear algebra, Probability and Statistics, Numerical methods and Discrete mathematics.
+Студент 3 курса Санкт-Петербургского государственного экономического университета (СПбГЭУ). Со школы я занимался разработкой различных вещей. Пробовал себя в нескольких областях, таких как веб-разработка, мобильная разработка, разработка игр, разработка программного обеспечения и многих других. Умею работать с разными офисными пакетами, знаю Python, C, Bash и другие языки программирования. Также имеются знания в линейной алгебре, теории вероятностей и математической статистике, численных методов, дискретной математики и системном анализе.
 </p>
 <p>
-    <b>Location</b><br>
-    🇷🇺 Russia, Saint Petersburg
+    <b>Место проживания</b><br>
+    🇷🇺 Россия, Санкт-Петербург
 </p>
 <p>
-    <b>Languages</b><br>
-    🇷🇺 Russian (Native)<br>
-    🇺🇸 English (Intermediate)<br>
-    🇩🇪 German (Basic)<br>
+    <b>Языки</b><br>
+    🇷🇺 Русский (родной)<br>
+    🇺🇸 Английский (продвинутый/intermediate)<br>
+    🇩🇪 Немецкий (базовый)<br>
 </p>
 <p>
-    <b>Contacts</b><br>
+    <b>Контакты</b><br>
     Website: <a href="https://ebronnikov.xyz/" target="blank_">ebronnikov.xyz</a><br>
     Email: <a href="mailto:bronnikov.40@mail.ru" target="blank_">bronnikov.40@mail.ru</a><br>
     Telegram: <a href="https://t.me/endygamedev" target="blank_">@endygamedev</a><br>
@@ -37,86 +36,86 @@ permalink: /cv/en
 </p>
 
 
-<h2>WORK EXPERIENCE</h2>
+<h2>ОПЫТ РАБОТЫ</h2>
 <p>
     <b>6OG</b><br>
-    <b>Russia, St. Petersburg</b><br>
+    <b>Россия, Санкт-Петербург</b><br>
     2019–2019<br>
-    Developed an AR application for 6OG on the Vuforia engine at Unity3D
+    Разработка AR-приложения на движке Vuforia в Unity3D. 
 </p>
 
-<h2>EDUCATION</h2>
+<h2>ОБРАЗОВАНИЕ</h2>
 <p>
-    <b>Gymnasium №73 «Lomonosov gymnasium»</b><br>
+    <b>Гимназия №73 «Ломоносовская гимназия»</b><br>
     2008–2019<br>
-    Secondary Education
+    Общее среднее образование
 </p>
 <p>
-    <b>Computer Science Training Center</b><br>
+    <b>Учебный центр вычислительной техники (УЦВТ)</b><br>
     2016–2017<br>
-    Object-oriented Programming in C#
+    Объектно-ориентированное программирование на языке C#
 </p>
 <p>
-    <b>Computer Science Training Center</b><br>
+    <b>Учебный центр вычислительной техники (УЦВТ)</b><br>
     2017–2018<br>
-    Neural Networks and Simulation
+    Нейронные сети и имитационное моделирование
 </p>
 <p>
-    <b>Computer Science Training Center</b><br>
+    <b>Учебный центр вычислительной техники (УЦВТ)</b><br>
     2018–2019<br>
-    Java Mobile Programming
+    Мобильное программирование на языке Java
 </p>
 <p>
-    <b>Saint Petersburg State University of Economics</b><br>
-    2019–present (3<sup>rd</sup> year)<br>
-    Bachelor of Applied Mathematics and Computer Science
+    <b>Санкт-Петербургского государственного экономического университета (СПбГЭУ)</b><br>
+    2019–настоящее время (3 курс)<br>
+    Прикладная математика и информатика в экономике и управлении
 </p>
 
 
-<h2>CERTIFICATES</h2>
+<h2>СЕРТИФИКАТЫ</h2>
 <p>
-    <a href="/assets/certificate.pdf" target="blank_">Certificate of completion of additional education</a><br>
-    <b>Computer Science Training Center</b><br>
+    <a href="/assets/certificate.pdf" target="blank_">Сертификат о дополнительном образовании</a><br>
+    <b>Учебный центр вычислительной техники (УЦВТ)</b><br>
     <b>2019</b>
 </p>
 <p>
-    <a href="https://stepik.org/cert/1062738 " target="blank_">«Functional programming in the Haskell Language»</a><br>
+    <a href="https://stepik.org/cert/1062738 " target="blank_">«Функциональное программирование на языке Haskell»</a><br>
     <b>Stepik</b><br>
     <b>2021</b>
 </p>
 
-<h2>SKILLS</h2>
+<h2>НАВЫКИ</h2>
 <p>
-    <b>Office packages</b><br>
+    <b>Офисные пакеты</b><br>
     Microsoft Office, LibreOffice, OpenOffice, Google Office (Docs, Sheets, Slides), LaTeX, Photoshop
 </p>
 <p>
-    <b>Operating Systems</b><br>
+    <b>Операционные системы</b><br>
     <i>Windows</i>, Linux (<i>Arch</i>, Fedora, Debian, <i>Ubuntu</i>)
 </p>
 <p>
-    <b>Data Analysis</b><br>
-    Python, JupyterLab, Probability Theory and Statistics
+    <b>Анализ данных</b><br>
+    Python, JupyterLab
 </p>
 <p>
-    <b>Programming Languages</b><br>
+    <b>Языки программирования</b><br>
     Python, Wolfram Language, C, Rust, Bash, C#, Java, Haskell
 </p>
 <p>
-    <b>Databases</b><br>
+    <b>Базы данных</b><br>
     Microsoft SQL Server, SQLite, MySQL
 </p>
 <p>
-    <b>Web</b><br>
+    <b>Веб</b><br>
     webMathematica, HTML, CSS, Bootstrap, Flask, Jinja, Markdown, Jekyll, Nginx
 </p>
 
-<h2>PROJECTS</h2>
+<h2>ПРОЕКТЫ</h2>
 <table>
 <tr>
-<th>Year</th>
-<th>Technology</th>
-<th>Project</th>
+<th>Год</th>
+<th>Технологии</th>
+<th>Проект</th>
 <tr>
 <td>2021</td>
 <td>Java, C</td>
