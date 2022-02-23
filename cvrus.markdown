@@ -118,6 +118,11 @@ permalink: /cv/ru
 <th>Технологии</th>
 <th>Проект</th>
 <tr>
+<td>2022</td>
+<td>Python</td>
+<td><a href="https://github.com/endygamedev/network-manager-gui" target="_blank"><em>network-manager-gui: GUI tool for NetworkManager</em></a></td>
+</tr>
+<tr>
 <td>2021</td>
 <td>Java, C</td>
 <td><a href="https://github.com/endygamedev/cs-essentials" target="_blank"><em>Computer Science essential things</em></a></td>
