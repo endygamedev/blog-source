@@ -113,6 +113,7 @@ permalink: /cv/
 </p>
 
 <h2>PROJECTS</h2>
+You can see all the projects here: <a href="https://projects.ebronnikov.xyz/">projects.ebronnikov.xyz</a>
 <table>
 <tr>
 <th>Year</th>

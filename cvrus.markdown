@@ -112,6 +112,7 @@ permalink: /cv/ru
 </p>
 
 <h2>ПРОЕКТЫ</h2>
+Все проекты вы можете посмотреть здесь: <a href="https://projects.ebronnikov.xyz/">projects.ebronnikov.xyz</a>
 <table>
 <tr>
 <th>Год</th>
