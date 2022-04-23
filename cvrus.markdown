@@ -24,7 +24,7 @@ permalink: /cv/ru
 <p>
     <b>Языки</b><br>
     🇷🇺 Русский (родной)<br>
-    🇺🇸 Английский (продвинутый/intermediate)<br>
+    🇺🇸 Английский (продвинутый/advanced)<br>
     🇩🇪 Немецкий (базовый)<br>
 </p>
 <p>
@@ -144,12 +144,12 @@ permalink: /cv/ru
 </tr>
 <tr>
 <td>2021</td>
-<td>Pyhon</td>
+<td>Python</td>
 <td><a href="https://github.com/endygamedev/maze" target="_blank"><em>Maze solver or pathfinding algorithm</em></a></td>
 </tr>
 <tr>
 <td>2021</td>
-<td>Pyhon</td>
+<td>Python</td>
 <td><a href="https://github.com/endygamedev/instagram-scraper" target="_blank"><em>Instagram Scraper</em></a></td>
 </tr>
 <tr>
