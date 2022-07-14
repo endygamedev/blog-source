@@ -130,6 +130,16 @@ You can see all the projects here: <a href="https://projects.ebronnikov.xyz/" ta
 <th>Project</th>
 <tr>
 <td>2022</td>
+<td>C, Python, Bash</td>
+<td><a href="https://github.com/endygamedev/network-traffic" target="_blank"><em>Packet Sniffer</em></a></td>
+</tr>
+<tr>
+<td>2022</td>
+<td>Python</td>
+<td><a href="https://github.com/endygamedev/social-network-analysis" target="_blank"><em>Social network analysis (SNA)</em></a></td>
+</tr>
+<tr>
+<td>2022</td>
 <td>C</td>
 <td><a href="https://github.com/endygamedev/linux-programming" target="_blank"><em>Linux programming basics</em></a></td>
 </tr>
